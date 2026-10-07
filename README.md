@@ -1,4 +1,4 @@
-# 💊 MedCheck AI
+# 💊 MediCheck AI
 
 An AI "medical shop assistant" built with **Streamlit** and **Google Gemini**.
 Upload a photo of a medicine (even a partial one), describe your problem or skin infection, and the app tells you:
