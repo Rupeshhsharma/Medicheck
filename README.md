@@ -24,7 +24,7 @@ If the photo is incomplete, the app searches the web using the visible details. 
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/medicheck.git
+git clone https://github.com/Rupeshhsharma/medicheck.git
 cd medicheck
 python -m venv venv
 venv\Scripts\activate          # Windows
